@@ -1,0 +1,3 @@
+[submodule "school-management-system"]
+	path = school-management-system
+	url = https://github.com/2020-SHAW/School-Management-System.git
